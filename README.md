@@ -1,4 +1,4 @@
-# shimo-goto-desktop
+# Shimo Go to desktop
 
 这是一个chrome浏览器扩展程序。
 
